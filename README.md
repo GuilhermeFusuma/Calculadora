@@ -1,2 +1,2 @@
 # Calculadora
-calculadora simples de soma e multiplicação
+calculadora simples que realiza operações básicas
